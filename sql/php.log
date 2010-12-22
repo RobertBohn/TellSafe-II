@@ -1,0 +1,75 @@
+[15-Jan-2004 19:23:29] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 255
+[15-Jan-2004 19:26:29] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 255
+[15-Jan-2004 19:26:29] Sendmail Error: Complaint[11485]
+[15-Jan-2004 19:38:39] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 258
+[15-Jan-2004 19:38:39] Sendmail Error: Complaint[11486]
+[15-Jan-2004 21:21:18] Signin Error: Username[flo] Password[foo].
+[16-Jan-2004 12:09:26] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 258
+[16-Jan-2004 12:09:26] Sendmail Error: Complaint[11487]
+[16-Jan-2004 12:10:40] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 258
+[16-Jan-2004 12:10:40] Sendmail Error: Complaint[11488]
+[16-Jan-2004 12:16:05] Signin Error: Username[] Password[].
+[16-Jan-2004 12:21:08] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 258
+[16-Jan-2004 12:21:08] Sendmail Error: Complaint[11489]
+[16-Jan-2004 12:21:28] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 258
+[16-Jan-2004 12:21:28] Sendmail Error: Complaint[11490]
+[16-Jan-2004 12:22:28] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 258
+[16-Jan-2004 12:22:28] Sendmail Error: Complaint[11491]
+[16-Jan-2004 16:46:50] Signin Error: Username[] Password[].
+[17-Jan-2004 08:32:44] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 60
+[17-Jan-2004 08:32:44] Sendmail Error: [New Feedback]
+[17-Jan-2004 08:39:04] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 93
+[17-Jan-2004 08:39:04] Sendmail Error: [Subscribe]
+[17-Jan-2004 18:09:51] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 60
+[17-Jan-2004 18:09:51] Sendmail Error: [Feedback]
+[17-Jan-2004 18:10:57] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 93
+[17-Jan-2004 18:10:57] Sendmail Error: [Subscribe]
+[18-Jan-2004 18:06:17] Signin Error: Username[bartlewingreen35] Password[].
+[20-Jan-2004 08:59:57] Signin Error: Username[] Password[].
+[20-Jan-2004 09:01:09] Signin Error: Username[] Password[].
+[20-Jan-2004 09:01:14] Signin Error: Username[guest] Password[].
+[20-Jan-2004 12:35:53] Signin Error: Username[] Password[].
+[20-Jan-2004 22:06:09] Signin Error: Username[] Password[].
+[25-Jan-2004 19:56:13] Invalid Complaint: User[10004] Complaint[114983]
+[04-Feb-2004 07:22:16] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\includes\tellsafe.inc on line 270
+[04-Feb-2004 07:22:16] Sendmail Error: Complaint[11492]
+[04-Feb-2004 08:36:03] Signin Error: Username[] Password[].
+[04-Feb-2004 08:36:15] Signin Error: Username[] Password[].
+[04-Feb-2004 08:36:19] Signin Error: Username[bob] Password[].
+[04-Feb-2004 08:37:01] Signin Error: Username[guest] Password[].
+[07-Feb-2004 10:41:49] PHP Parse error:  parse error, unexpected '=' in C:\Program Files\Apache Group\web\admin\logfiles.php on line 6
+[07-Feb-2004 10:41:55] PHP Parse error:  parse error, unexpected '=' in C:\Program Files\Apache Group\web\admin\logfiles.php on line 6
+[07-Feb-2004 10:42:24] PHP Parse error:  parse error, unexpected '=' in C:\Program Files\Apache Group\web\admin\logfiles.php on line 6
+[07-Feb-2004 10:42:25] PHP Parse error:  parse error, unexpected '=' in C:\Program Files\Apache Group\web\admin\logfiles.php on line 6
+[07-Feb-2004 10:43:01] PHP Parse error:  parse error, unexpected T_VAR in C:\Program Files\Apache Group\web\admin\logfiles.php on line 4
+[07-Feb-2004 10:43:26] PHP Parse error:  parse error, unexpected T_VAR in C:\Program Files\Apache Group\web\admin\logfiles.php on line 4
+[07-Feb-2004 10:43:34] PHP Parse error:  parse error, unexpected '=' in C:\Program Files\Apache Group\web\admin\logfiles.php on line 6
+[07-Feb-2004 10:48:34] PHP Parse error:  parse error, unexpected T_ELSE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 48
+[07-Feb-2004 11:02:26] PHP Warning:  implode(): Bad arguments. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 84
+[07-Feb-2004 11:02:27] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102
+[07-Feb-2004 11:07:13] PHP Warning:  implode(): Bad arguments. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 84
+[07-Feb-2004 11:07:14] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102
+[07-Feb-2004 11:15:05] PHP Warning:  implode(): Bad arguments. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 84
+[07-Feb-2004 11:15:06] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102
+[07-Feb-2004 11:34:01] PHP Parse error:  parse error, unexpected T_VAR in C:\Program Files\Apache Group\web\admin\logfiles.php on line 9
+[07-Feb-2004 11:34:27] PHP Parse error:  parse error, unexpected T_VARIABLE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 10
+[07-Feb-2004 11:34:31] PHP Parse error:  parse error, unexpected T_VARIABLE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 10
+[07-Feb-2004 11:35:18] PHP Parse error:  parse error, unexpected T_VARIABLE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 10
+[07-Feb-2004 11:35:42] PHP Parse error:  parse error, unexpected T_VARIABLE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 10
+[07-Feb-2004 11:36:32] PHP Warning:  implode(): Bad arguments. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 84
+[07-Feb-2004 11:36:33] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102
+[07-Feb-2004 11:37:31] PHP Warning:  implode(): Bad arguments. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 84
+[07-Feb-2004 11:37:32] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102
+[07-Feb-2004 11:42:30] PHP Warning:  implode(): Argument to implode must be an array. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 84
+[07-Feb-2004 11:42:31] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102
+[07-Feb-2004 11:43:21] PHP Warning:  file(c:	est.txt): failed to open stream: Invalid argument in C:\Program Files\Apache Group\web\admin\logfiles.php on line 87
+[07-Feb-2004 11:43:21] PHP Warning:  implode(): Argument to implode must be an array. in C:\Program Files\Apache Group\web\admin\logfiles.php on line 87
+[07-Feb-2004 11:43:22] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 105
+[07-Feb-2004 11:45:02] PHP Warning:  readfile(c:	est.txt): failed to open stream: Invalid argument in C:\Program Files\Apache Group\web\admin\logfiles.php on line 87
+[07-Feb-2004 11:45:03] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 105
+[07-Feb-2004 11:45:53] PHP Warning:  readfile(c:\test.txt): failed to open stream: No such file or directory in C:\Program Files\Apache Group\web\admin\logfiles.php on line 87
+[07-Feb-2004 11:45:54] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 105
+[07-Feb-2004 11:46:31] PHP Warning:  readfile(c:\test.txt): failed to open stream: No such file or directory in C:\Program Files\Apache Group\web\admin\logfiles.php on line 87
+[07-Feb-2004 11:46:32] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Program Files\Apache Group\web\admin\logfiles.php on line 105
+[07-Feb-2004 12:34:46] PHP Parse error:  parse error, unexpected T_VARIABLE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 101
+[07-Feb-2004 12:38:07] PHP Parse error:  parse error, unexpected T_VARIABLE in C:\Program Files\Apache Group\web\admin\logfiles.php on line 102

@@ -1,0 +1,12 @@
+BODY { font-family: arial, verdana, sans-serif; margin-top:0; margin-bottom:0; margin-left:0; margin-right:0; }
+H1 { font-family: arial, verdana, sans-serif; font-size:14pt; font-weight:normal; color:#000000; text-decoration:none; line-height:20px; }
+P { font-family: arial, verdana, sans-serif; font-size:12pt; font-weight:normal; color:#000000; text-decoration:none; line-height:20px; }
+TD { font-family: arial, verdana, sans-serif; font-size:12pt; font-weight:normal; color:#000000; text-decoration:none; line-height:20px; }
+A { font-family: arial, verdana, sans-serif; font-size:12pt; font-weight:normal; color:#000099; text-decoration:underline; line-height:20px; }
+INPUT, SELECT, TEXTAREA { font-family: arial, verdana, sans-serif; font-size:12pt; }
+.MenuHeader { font-family: arial, verdana, sans-serif; font-size:12pt; font-weight:normal; color:#000000; text-decoration:none; line-height:22px; }
+.Menu { font-family: arial, verdana, sans-serif; font-size:12pt; font-weight:normal; color:#ffffff; text-decoration:underline; line-height:24px; }
+.Menu:hover { text-decoration:underline; }
+.Err { font-family: arial, verdana, sans-serif; font-size:10pt; font-weight:bold; color:#660000; text-decoration:none; line-height:20px; }
+
+
